@@ -17,6 +17,7 @@
 " 禁用 vi 兼容模式
 set nocompatible
 
+set relativenumber
 " 设置 Backspace 键模式
 set bs=eol,start,indent
 
